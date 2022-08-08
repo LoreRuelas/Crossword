@@ -1,0 +1,43 @@
+
+INSTRUCCIONES:
+1. Selecciona el tema de tu crucigrama 
+2. Se le mostrarán cierta cantidad de definiciones y en base a ellas usted deberá de encontrar palabras, 
+las cuales deberá de ponerlas en la cuadrícula.
+-A considerar:
+  -La palabras se colocan de manera horizontal o vertical.
+  -Las palabras se escriben sin acento.
+  -Se escribe una letra por cuadro.
+  -Algunas letras (cuadros) se usarán para diversas palabras.
+	
+EJEMPLO:  
+- La siguiente es la "cuadrícula" del crucigrama. 
+
+	X    X    1.2  1    1    1    1
+	X    X    2    X    X    X    X
+	4    X    2    X    X    X    X
+	4    3    2.3  3    X    X    X
+	4    X    2    X    X    X    X
+	4    X    2    X    X    X    X
+	4    X    2    X    X    X    X
+
+- La siguiente son las definiciones de este crucigrama.
+
+1) El conocido como el mejor amigo del hombre.
+2) Animal que viene del mar.
+3) Animal hembra cuyos hij@s se les llama becerr@s.
+4) El pastor cuida a sus ____________.
+
+-Los números en la cuadrácula indican donde van las letras de la palabra de la definición correspondiente.
+-Definicion 1 (1) El conocido como el mejor amigo del hombre.) corresponde a donde están los unos en la cuadrícula.
+-Donde se encuentran dos números separados por un punto se refiere a que en ese espacio va una letra que coincide para dos palabras.
+(Las palabras correspondientes a sus definiciones)
+
+¿CÓMO COMPLETAR EL CRUCIGRAMA? 
+1- Seleccionar la defición con la que se quiere interactuar
+2- Escribir la palabra que se cree es la correcta. (Si es incorrecta se volverá a pedir.)
+3- Cuando sea la correcta, se mostrará el crucigrama con la palabra correcta ingresada en los lugares correspondientes.
+4- Se volverán a mostrar las definiciones y se te pedirá selecciones una.
+
+	
+
+  Cuando desee salir ingrese 'salir':
