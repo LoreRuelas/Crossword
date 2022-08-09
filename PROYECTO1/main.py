@@ -1,3 +1,5 @@
+# This proyect was programmed by Christa Itzel Martinez Barrios & Lorena Ruelas Gaytan
+
 import os
 import sys
 import csv
